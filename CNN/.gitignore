@@ -1,0 +1,2 @@
+**/*.pyc
+CIFAR10_classifier/data/**
